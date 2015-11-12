@@ -1,2 +1,3 @@
 # dnguyenv-one
-This is from duynguyenvan, master+test branch together
+From master branch of duynguyenvan
+https://duynguyenvan@github.com/duynguyenvan/dnguyenv-one
