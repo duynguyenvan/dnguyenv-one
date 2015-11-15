@@ -1,2 +1,2 @@
 # dnguyenv-one
-From duynguyenvan's clone, thu xem no di ve dau
+Thu phat nua xem sao lan nua
